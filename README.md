@@ -1,4 +1,4 @@
-EXP 10
+EXP 10 : Study of Panda Library
 
 Aim To study and implement the Pandas library in Python for creating and manipulating Series and DataFrames and to perform various data handling operations such as accessing data, modifying data, deleting columns, performing statistical analysis, and filtering data.
 
